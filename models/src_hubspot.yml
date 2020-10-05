@@ -961,9 +961,6 @@ sources:
           - name: external_url
             description: The external URL of the engagement.
 
-          - name: meeting_outcome
-            description: The meeting outcome.
-
           - name: pre_meeting_prospect_reminders
             description: TBD
 

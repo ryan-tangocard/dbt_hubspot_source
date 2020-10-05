@@ -14,7 +14,6 @@ with base as (
         end_time as end_timestamp,
         engagement_id,
         external_url,
-        meeting_outcome,
         pre_meeting_prospect_reminders,
         source,
         source_id,
