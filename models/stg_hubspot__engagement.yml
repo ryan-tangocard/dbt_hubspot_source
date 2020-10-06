@@ -191,9 +191,6 @@ models:
       - name: meeting_notes
         description: The details or body of the meeting.
 
-      - name: meeting_outcome
-        description: The meeting outcome.
-
       - name: meeting_title
         description: The title or subject of the meeting
 
