@@ -4,7 +4,7 @@ with base as (
 
     select *
     from {{ var('contact_list') }}
-    where _fivetran_deleted is null
+    where _fivetran_deleted = 0
 
 ), fields as (
 
